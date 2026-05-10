@@ -1,0 +1,25 @@
+# Dataset - excluded per institutional policy
+*.csv
+*.xlsx
+*.xls
+
+# Trained models
+*.joblib
+*.pkl
+
+# Output results
+outputs/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
