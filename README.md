@@ -11,6 +11,15 @@
 > Syed Shehryar Ali Naqvi, Hyunseok Ko, Do-Hyeun Kim  
 > *Materials & Design*, 2025
 
+@article{khalid2026multi,
+  title={Multi-model machine learning framework for predicting material properties of BaTiO3-based ferroelectric ceramics},
+  author={Khalid, Saman and Faseeh, Muhammad and Song, Hyejeong and Khan, Murad Ali and Naqvi, Syed Shehryar Ali and Ko, Hyunseok and Kim, Do-Hyeun},
+  journal={Materials \& Design},
+  pages={116418},
+  year={2026},
+  publisher={Elsevier}
+}
+
 ## Overview
 
 This repository contains the full source code for predicting 
